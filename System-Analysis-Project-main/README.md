@@ -1,2 +1,5 @@
-# System-Analysis-Project
-Project for school (title will change)
+# CuisineCompass: Systems Analysis and Design Project
+
+The CuisineCompass project involves the systems analysis and design of an innovative app aimed at helping users find dining options that cater to their dietary needs, restrictions, and preferences. The app utilizes location-based services to recommend nearby restaurants that meet specific criteria, ensuring accessibility for users with dietary limitations such as allergies or vegan preferences. The project's repository contains comprehensive planning and design documents outlining the system development life cycle (SDLC) stages, including system workflow and design documentation, visual diagrams, and use case scenarios.
+
+The purpose of this project is to apply system analysis and design methodologies to conceptualize and plan a user-centric application that is both functional and efficient. It addresses both functional and non-functional requirements, aiming to deliver a feature-rich and reliable app that helps users easily find dining options that match their specific dietary needs. Key deliverables include system architecture, user flow, entity-relationship diagrams (ERDs), and process flowcharts, along with detailed functional scenarios that describe user interactions and system responses.
